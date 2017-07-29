@@ -1,7 +1,7 @@
 # ProwlNotification
 Python script to send Prowl notifcation
 
-Dependencies
+Dependencies:
 ```
 git clone https://github.com/jacobb/prowlpy.git
 cd prowlpy
